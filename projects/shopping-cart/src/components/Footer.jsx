@@ -1,7 +1,9 @@
+// import { useCart } from '../hooks/useCart'
 import './Footer.css'
 
 export function Footer () {
   // const { filters } = useFilters()
+  // const { cart } = useCart()
 
   return (
     <footer className='footer'>
